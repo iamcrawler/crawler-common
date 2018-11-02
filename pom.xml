@@ -107,6 +107,15 @@
         </dependencies>
     </dependencyManagement>
 
+    <distributionManagement>
+        <repository>
+            <id>crawler</id>
+            <name>Crawler Releases</name>
+            <url>http://www.iamcrawler.cn:8081/nexus/content/repositories/thirdparty/</url>
+        </repository>
+    </distributionManagement>
+
+
     <build>
         <finalName>common</finalName>
         <plugins>
