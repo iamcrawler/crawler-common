@@ -1,4 +1,4 @@
-package cn.iamcrawler.crawlercommon.exception;
+package cn.iamcrawler.crawler_common.exception;
 
 import org.springframework.boot.bind.RelaxedPropertyResolver;
 import org.springframework.context.EnvironmentAware;

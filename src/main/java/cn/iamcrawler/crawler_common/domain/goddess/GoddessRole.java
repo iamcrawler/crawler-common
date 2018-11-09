@@ -1,4 +1,4 @@
-package cn.iamcrawler.crawlercommon.domain.goddess;
+package cn.iamcrawler.crawler_common.domain.goddess;
 
 import com.baomidou.mybatisplus.annotations.TableName;
 import lombok.AllArgsConstructor;

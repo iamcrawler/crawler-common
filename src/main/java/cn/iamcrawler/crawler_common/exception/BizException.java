@@ -1,4 +1,4 @@
-package cn.iamcrawler.crawlercommon.exception;
+package cn.iamcrawler.crawler_common.exception;
 
 import java.util.Arrays;
 
