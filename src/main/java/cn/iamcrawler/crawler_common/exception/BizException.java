@@ -41,7 +41,7 @@ public class BizException extends RuntimeException {
     }
 
     public BizException(String code, Object[] args, String message, Throwable cause) {
-        super(message,cause);
+        super(message, cause);
         this.code = code;
         this.args = args;
         this.msg = message;
